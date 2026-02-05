@@ -21,3 +21,5 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
+
+ford.build.data.oauth.client_secret: KB_8Q~aknfrfLYbLyzurQkPznUiCDzy5cUjKkaYf
