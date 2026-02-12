@@ -18,7 +18,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.Oracle10gDialect
 #hibernate.cache.provider_class=org.hibernate.cache.TreeCacheProvider
 #hibernate.cache.provider_class=net.sf.ehcache.hibernate.SingletonEhCacheProvider
 
-spring.cache.ehcache.config=classpath:ehCache.xml
+#spring.cache.ehcache.config=classpath:ehCache.xml
 #logging.level.org.hibernate.SQL=DEBUG
 #logging.level.org.hibernate.type.descriptor.sql.BasicBinder=TRACE
 #hibernate.globally_quoted_identifiers=true
